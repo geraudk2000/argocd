@@ -16,6 +16,6 @@ spec:
       containers:
         - name: nginx
           imagePullPolicy: Always
-          image: aputra/nginx
+          image: geraudk2000/nginx
           ports:
             - containerPort: 80
