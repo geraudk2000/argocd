@@ -18,4 +18,4 @@ To get started with the ArgoCD demo, follow these steps:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/argocd-demo.git
+   git clone https://github.com/geraudk2000/argocd.git
