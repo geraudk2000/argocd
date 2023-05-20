@@ -1,3 +1,3 @@
 # ArgoCD Demo
 
-ArgoCD with Helm Chart 
+ArgoCD with Helm Chart to deploy metrics-server
